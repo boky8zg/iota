@@ -2,10 +2,12 @@
     "name": "iota",
     "version": "1.0.0",
     "description": "Simple and minimalistic state management",
-    "main": "./lib/iota-store.js",
+    "main": "./lib/index.js",
+    "types": "./lib/index.d.ts",
     "scripts": {
         "build": "tsc"
     },
+    "files": ["lib/**/*"],
     "keywords": [
         "store",
         "state",
