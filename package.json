@@ -1,5 +1,5 @@
 {
-    "name": "iota",
+    "name": "@boky8/iota",
     "version": "1.0.0",
     "description": "Simple and minimalistic state management",
     "main": "./lib/index.js",
