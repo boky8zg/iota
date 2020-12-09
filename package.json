@@ -1,0 +1,20 @@
+{
+    "name": "iota",
+    "version": "1.0.0",
+    "description": "Simple and minimalistic state management",
+    "main": "./lib/iota-store.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "store",
+        "state",
+        "simple",
+        "minimal"
+    ],
+    "author": "Bojan Došen",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.1.2"
+    }
+}
