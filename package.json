@@ -15,6 +15,14 @@
         "minimal"
     ],
     "author": "Bojan Došen",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/boky8zg/iota.git"
+    },
+    "bugs": {
+        "url": "https://github.com/boky8zg/iota/issues"
+    },
+    "homepage": "https://github.com/boky8zg/iota",
     "license": "ISC",
     "devDependencies": {
         "typescript": "^4.1.2"
